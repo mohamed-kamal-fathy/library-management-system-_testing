@@ -1,0 +1,4 @@
+pytest --cov=lib 
+
+
+pytest --cov=lib --cov-report=html
